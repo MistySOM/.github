@@ -2,6 +2,7 @@
 
 # Welcome to the MistySOM Repositories
 
-You are at the right place to access documentation, information or support for MistySOM.
+You are at the right place to access documentation, information or support for MistySOM.<br/>
+<a href="https://mistywest.com/mistysom">MistySOM website</a>.
 
-The global MistySOM wiki can be accessed <a href="https://github.com/MistySOM/wiki/">here</a>.
+<a href="https://github.com/MistySOM/wiki/">MistySOM wiki</a>.
