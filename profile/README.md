@@ -22,7 +22,6 @@ MistyCarrier <a href="https://www.mistywest.com/wp-content/uploads/2022/11/Misty
 
 <h3>Support</h3>
 MistySOM G2L <a href="https://github.com/MistySOM/rzg2l/issues">issues</a><br/>
-Email <a href="mailtomistysom@mistywest.com">mistysom@mistywest.com</a>
 
 </td>
 <td width="100%">
