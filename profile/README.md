@@ -26,7 +26,7 @@ MistySOM G2L <a href="https://github.com/MistySOM/rzg2l/issues">issues</a><br/>
 
 </td>
 <td width="100%">
-<img decoding="async" style="width: 100%;" src="https://www.mistywest.com/wp-content/uploads/2022/11/MistySOM-Carrier-board-v1.172.png">
+<img decoding="async" style="width: 100%;" src="https://github.com/MistySOM/wiki/blob/master/files/img/MistySOM%20Carrier%20board%20v1.172.png">
 </td>
 </tr>
 </table>
