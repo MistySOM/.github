@@ -10,8 +10,8 @@ You are at the right place to access documentation, information or support for M
 
 <h3>Product Briefs</h3>
 
-MistySOM G2L <a href="https://www.mistywest.com/wp-content/uploads/2023/02/02-14-2023-MistySOM-G2L-Product-Brief.pdf" >download</a><br/>
-MistySOM V2L <a href="https://www.mistywest.com/wp-content/uploads/2023/02/02-14-2023-MistySOM-V2L-Product-Brief.pdf" >download</a><br/>
+MistySOM G2L <a href="https://www.mistywest.com/wp-content/uploads/2023/02/02-14-2023-MistySOM-G2L-Product-Brief-2.pdf" >download</a><br/>
+MistySOM V2L <a href="https://www.mistywest.com/wp-content/uploads/2023/02/02-14-2023-MistySOM-V2L-Product-Brief-2.pdf" >download</a><br/>
 MistyCarrier <a href="https://www.mistywest.com/wp-content/uploads/2023/02/02-14-2023-MistyCarrier-Product-Brief.pdf" >download</a><br/>
 
 <h3>Quick Links</h3>
