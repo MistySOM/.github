@@ -23,7 +23,7 @@ MistyCarrier <a href="https://www.mistywest.com/wp-content/uploads/2023/02/02-14
 
 <h3>Support</h3>
 MistySOM G2L <a href="https://github.com/MistySOM/rzg2l/issues">issues</a><br/>
-MistySOM <a href="https://www.reddit.com/r/MistySOM/">Subreddit</a><br/>
+MistySOM <a href="https://www.reddit.com/r/MistySOM/" target="_blank">Subreddit</a><br/>
 
 </td>
 <td width="100%">
