@@ -20,7 +20,7 @@ MistyCarrier <a href="https://www.mistywest.com/wp-content/uploads/2023/02/02-14
 - <a href="https://wiki.mistysom.com">MistySOM wiki</a><br/>
 - <a href="https://github.com/MistySOM/rzg2l">MistySOM G2L</a><br/>
 - <a href="https://github.com/MistySOM/rzv2l">MistySOM V2L</a><br/>
-- <a href="https://github.com/MistySOM/wiki/blob/master/content/DesignFiles.md">MistySOM Design Files</a><br/>
+- <a href="https://wiki.mistysom.com/content/DesignFiles.html">MistySOM Design Files</a><br/>
 
 <h3>Support</h3>
 MistySOM G2L <a href="https://github.com/MistySOM/rzg2l/issues">issues</a><br/>
